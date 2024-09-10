@@ -1,0 +1,25 @@
+body {
+  font-family: verdana;
+  text-transform: capitalize;
+  line-height: 1.5;
+  letter-spacing: 2px;
+}
+
+#container {
+  width: 100%;
+  min-height: 90vh;
+  border: 2px solid black;
+}
+
+#container * {
+  padding: 30px;
+  font-size: 20px;
+}
+
+
+li {
+    padding: 20px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
